@@ -17,8 +17,6 @@ I work at the intersection of **design, development, and product**, with a stron
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 **Frontend**  
 ![React](https://img.shields.io/badge/React-E5E7EB?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E5E7EB?style=flat&logo=javascript&logoColor=F7DF1E)
