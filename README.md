@@ -17,29 +17,32 @@ I work at the intersection of **design, development, and product**, with a stron
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 **Frontend**  
-![React](https://img.shields.io/badge/React-0A0A0A?style=flat-pill&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-pill&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-pill&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-pill&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=flat-pill&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-E5E7EB?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-E5E7EB?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E5E7EB?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-E5E7EB?style=flat&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E5E7EB?style=flat&logo=tailwindcss&logoColor=06B6D4)
 
 **Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-pill&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-0A0A0A?style=flat-pill&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-E5E7EB?style=flat&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-E5E7EB?style=flat&logo=express&logoColor=000000)
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-pill&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-pill&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E5E7EB?style=flat&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-E5E7EB?style=flat&logo=mongodb&logoColor=47A248)
 
 **Mobile**  
-![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=flat-pill&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=flat-pill&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-E5E7EB?style=flat&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/Flutter-E5E7EB?style=flat&logo=flutter&logoColor=02569B)
 
 **Tools & Workflow**  
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-pill&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-pill&logo=github)
-![LaTeX](https://img.shields.io/badge/LaTeX-0A0A0A?style=flat-pill&logo=latex)
+![Git](https://img.shields.io/badge/Git-E5E7EB?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-E5E7EB?style=flat&logo=github&logoColor=181717)
+![LaTeX](https://img.shields.io/badge/LaTeX-E5E7EB?style=flat&logo=latex&logoColor=008080)
+
 
 
 ---
