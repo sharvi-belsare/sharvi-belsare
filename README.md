@@ -15,29 +15,32 @@ I work at the intersection of **design, development, and product**, with a stron
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
+**Frontend**  
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-pill&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-pill&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-pill&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-pill&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=flat-pill&logo=tailwindcss)
 
-**Backend & APIs**
-- Node.js
-- Express.js
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-pill&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-0A0A0A?style=flat-pill&logo=express)
 
-**Databases**
-- PostgreSQL
-- MongoDB
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-pill&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-pill&logo=mongodb)
 
-**Mobile**
-- Dart
-- Flutter
+**Mobile**  
+![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=flat-pill&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=flat-pill&logo=flutter)
 
-**Tools & Workflow**
-- Git, GitHub
-- LaTeX (documentation & research)
+**Tools & Workflow**  
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-pill&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-pill&logo=github)
+![LaTeX](https://img.shields.io/badge/LaTeX-0A0A0A?style=flat-pill&logo=latex)
+
 
 ---
 
